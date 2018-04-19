@@ -1,0 +1,2 @@
+# BeautifulWordsCollection
+收集平时读到的优美词句
